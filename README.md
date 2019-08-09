@@ -14,7 +14,7 @@ Why are we looking for mistrust? Because eliminating the trust factor is a _uniq
 
 The vast majority of other blockchains (private, permissioned, closed sourced, KYC'd, AML'd, etc) are pointless. Use BIRD to be on the right side of history.
 
- We eat our own dogfood. BIRD us:
+ We eat our own dogfood. BIRD is:
  - open source
  - public
  - free
