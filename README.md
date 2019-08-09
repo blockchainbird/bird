@@ -1,6 +1,6 @@
 # bird
 ## What is _bird_?
-A toolset and software to build an easy to use extra layer of guarantee on top of existing systems.
+A toolset and software to build a decentralised, trustless, and easy to use extra layer of guarantee on top of existing database systems.
 
 ## For who is _bird_?
 Any group of individuals and organisations. It's free to use and to adapt to your own needs.
@@ -9,7 +9,7 @@ Any group of individuals and organisations. It's free to use and to adapt to you
 95%+ of the projects, labeled as blockchain, are pointless. Nearly all projects are just database-implementations, covered in marketing mist around the blockchain hype.
 
 ## How does _bird_ do the trick?
-BIRD sticks to the design principles of bitcoin and sticks to the building blocks needed to implement an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
+_bird_ sticks to the design principles of bitcoin and implements the building blocks needed to create an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
 
 ### More details
 
