@@ -25,7 +25,7 @@ The vast majority of other blockchains (private, permissioned, closed sourced, K
  
  BIRD project 2020 has been sponsored by Henk van Cann. See the [project financing]().
  
- Do you want to sponsor too? Let us know. You get completely nothing in return. Which is great and necessary. Why should you sponsor if you can't claim more than a basic acknowledge in text + image?
+ Do you want to sponsor too? Let us know. You'll get nothing in return but thanks and respect. Which is great and necessary. Why should you sponsor if you can't claim more than a basic acknowledgement?
  
  - Use BIRD for commercial projects, it's open source under GPL 3 license and its content is CC by SA
  - To contribute to a more free, self-sovereign and decentralised world where privacy is respected by design
