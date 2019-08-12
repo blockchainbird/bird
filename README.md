@@ -36,7 +36,7 @@ The vast majority of other blockchains (private, permissioned, closed sourced, K
  
  ## Sponsored
  
- BIRD project 2020 has been sponsored by Henk van Cann. See the [project financing](https://docs.google.com/spreadsheets/d/1eNyadJXjTiy-e9Z7-HHrNIDi2LWWDivAsd_JjrQRjzE/edit?usp=sharing). It covers all out-of-pocket costs, mainly the hiring of experts.
+ BIRD project 2020 has been sponsored by Henk van Cann. See the [project financing](https://docs.google.com/spreadsheets/d/1eNyadJXjTiy-e9Z7-HHrNIDi2LWWDivAsd_JjrQRjzE/edit?usp=sharing). It covers all out-of-pocket costs, mainly hiring experts.
  
  ### Sponsor, don't claim
  
