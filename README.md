@@ -11,6 +11,9 @@ Any group of individuals and organisations. It's free to use and to adapt to you
 ## How does _bird_ do the trick?
 _bird_ sticks to the design principles of bitcoin and implements the building blocks needed to create an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
 
+# Progress and roadmap
+[Wiki](https://github.com/blockchainbird/bird/wiki)
+
 ### More details
 
 A **Trust Network** is any group of individuals and organisations that do not want to trust eachother or third party anymore.
