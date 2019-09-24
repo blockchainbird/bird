@@ -4,6 +4,7 @@ What is Bird
 - lifecycle
 - Connection to corporate data
 - Interface
+- Hiding of content, public proof
 
 
 Why Bird?
@@ -11,6 +12,8 @@ Why Bird?
 - Platform of trust
 - Efficiency: speed, cost, 
 - Prune auditors & third parties & intermediates
+- Practical solution for mistrust
+- Focus on what's really needed: smartphone identities, connectivity, 
 
 - Availability, integrity, confidentiality
 
@@ -18,6 +21,7 @@ How?
 - Open public neutral non-censorable trans-national blockchains, ergo bitcoin / ethereum
 - Automated export snapshots from SAP, .., ..
 - Prove, Sign and Verify
+- IAM: Identity & Access Management for verifiers
 
 
 Usecase selection:
@@ -26,9 +30,30 @@ High cost reduction
 High Transparancy advantage
 
 
-Usecase 1 Proof of existance
+Usecase 1 Proof of existance (Certification)
+Authenticity of welding diplomas in off-shore
+Authenticity of produce: watches, expensive camera, farma, high value unique items
 
 Usecase 2 Proof of ownership
+Assetbacking of gold, diamonds, cartier
+Half products kick back payments (consignment stocks redundant?!)
 
-Usecase 3 Proof of Foodsecurity
+Usecase 3 Proof of (Food)security
+Tankautos cleanen
+Co-creation and bill of materials
+Chemical cleaning
 
+
+
+Products & Services
+Bird open source toolkit enabling: submit Trust Network (TN), config
+Locate mistrust
+Process reorg
+Architecture & engineering : TN design + actors + signing schemes
+Snapshot definition & code
+Notary service install, config & execution
+Explorer automatic (green light dashboard) config
+Explorer custom made
+Tokenomics
+Smart Custody / Key management
+Mobile phone & identity & cold store roll out
