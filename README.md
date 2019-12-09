@@ -47,7 +47,7 @@ The vast majority of other blockchains (private, permissioned, closed sourced, K
   
   Why should you promote if you can't claim more than a basic acknowledgement?
  
- - use _bird_ for commercial projects. It's open source under GPL 3 license and its content is CC by SA
+ - use _bird_ for commercial projects. It's open source under Apache 2.0 license and its content is CC by SA or CC by ND dependent of the type of content.
  - to contribute to a more free, self-sovereign and decentralised world where privacy is respected by design
  - create more level playing fields in the world, where centralised powers can't cheat, steal and become totalitarian rulers
  - avoid pointless blockchains and join the happy few that build meaningful blockchain applications
