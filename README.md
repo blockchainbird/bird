@@ -54,10 +54,10 @@ The vast majority of other blockchains (private, permissioned, closed sourced, K
 
  ## Who owns _bird_?
 Currently the legal entity is a privately owned Dutch VOF of Henk van Cann and partner. The roadmap to decentralise this entity is as follows:
-- As soon as there are more than 50% donations for BlockchainBird are from parties external to the current owners of the VOF, a Not-for-profit will be set up within 2 calendar months: legal entity 'Stichting BlockchainBird Foundation' with a board
-- The board will voted. Stake (donations) is a pré to be suggested as a candidate for a role, but anyone can be voted for.
-- The voting could need to be done via a DAO.
+- As soon as there are more than 50% donations for BlockchainBird are from parties external to the current owners of the VOF, a Not-for-profit will be set up within 2 calendar months: legal entity 'Stichting BlockchainBird Foundation' with a board.
+- The board will be voted. Stake (donations) is a pré to be suggested as a candidate for a role, but anyone can be voted for.
+- The voting might need to be done via a DAO.
 
 ### Why not decentralise right away?
-- Because it costs time and money to do so
-- It costs time and money to maintain the 'Stichting BlockchainBird Foundation' by a board
+- Because it costs time and money to do so.
+- It costs time and money to maintain the 'Stichting BlockchainBird Foundation' by a board.
