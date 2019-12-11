@@ -46,8 +46,18 @@ The vast majority of other blockchains (private, permissioned, closed sourced, K
   ### no pushy shareholders or hidden interests
   
   Why should you promote if you can't claim more than a basic acknowledgement?
- 
+
  - use _bird_ for commercial projects. It's open source under Apache 2.0 license and its content is CC by SA or CC by ND dependent of the type of content.
  - to contribute to a more free, self-sovereign and decentralised world where privacy is respected by design
  - create more level playing fields in the world, where centralised powers can't cheat, steal and become totalitarian rulers
  - avoid pointless blockchains and join the happy few that build meaningful blockchain applications
+
+ ## Who owns _bird_?
+Currently the legal entity is a privately owned Dutch VOF of Henk van Cann and partner. The roadmap to decentralise this entity is as follows:
+- As soon as there are more than 50% donations for BlockchainBird are from parties external to the current owners of the VOF, a Not-for-profit will be set up within 2 calendar months: legal entity 'Stichting BlockchainBird Foundation' with a board
+- The board will voted. Stake (donations) is a pré to be suggested as a candidate for a role, but anyone can be voted for.
+- The voting could need to be done via a DAO.
+
+### Why not decentralise right away?
+- Because it costs time and money to do so
+- It costs time and money to maintain the 'Stichting BlockchainBird Foundation' by a board
