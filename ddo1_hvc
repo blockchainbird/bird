@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:btcr:xcx3-2r8p-qdun-50h",
+  "authentication": [{
+    "id": "did:btcr:xcx3-2r8p-qdun-50h#keys-1",
+    "type": "RsaVerificationKey2018",
+    "controller": "did:btcr:xcx3-2r8p-qdun-50h",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY...END PUBLIC KEY-----\r\n"
+  }],
+  "service": []
+}
