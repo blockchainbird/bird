@@ -11,6 +11,15 @@ Any group of individuals and organisations. It's free to use and to adapt to you
 ## How does _bird_ do the job?
 _bird_ sticks to the design principles of bitcoin and implements the building blocks needed to create an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
 
+#### Pegging is useless if you can't locate or read what you've proved
+
+Lots of private blockchain users claim hybrid solutions with public blockchain. Hence they think they are safe. Because anyone can verify the proof (hash) of the snapshot. Right?
+
+No. **It's pretty useless to do this. ** Why?
+To peg a private chains (in fact a *database*) to a public blockchain once a day or once week, doesn't proof anything. Because you will most likely never be able to succesfully verify it. More about that later.
+
+This is our ![core idea](./Images/Why-hash-readible-selections-instead-of-databases.jpg) to overcome this problem and create a verifiable extra layer of guarantee. What this is all about? Read our wiki and convince yourself that the solution is simple from the outside, however complex under the hood. And that's where complexity belongs: under the hood.
+
 # Progress and roadmap
 [Wiki](https://github.com/blockchainbird/bird/wiki)
 
