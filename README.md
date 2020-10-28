@@ -20,6 +20,9 @@ Bird consistently combines three fundamental features of open public blockchains
 3. Prevent side-steps or devations
 4. Known fatal mistakes ruled out by design 
 
+## Personal motiviation
+Positive turn on our negative stance towards learning the curve in society regarding this complex innovation.
+
 ## How does _bird_ do the job?
 _bird_ sticks to the design principles of bitcoin and implements the building blocks needed to create an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
 
