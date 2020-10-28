@@ -15,6 +15,10 @@ Of course, 95%+ of the projects labeled as blockchain are pointless. Nearly all 
 Bird consistently combines three fundamental features of open public blockchains: immutability, self sovereignty and efficiency. This garantuees the unique beneficial capabilities on top of the usual solutions.
 
 ## Why should I use bird?
+1. Save time
+2. Use a step by step
+3. Prevent side-steps or devations
+4. Known fatal mistakes ruled out by design 
 
 ## How does _bird_ do the job?
 _bird_ sticks to the design principles of bitcoin and implements the building blocks needed to create an uncensorable open public blockchain application. When consistently done right, that process results in the _extra layer of guarantee_ your world has never seen before.
